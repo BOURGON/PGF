@@ -1,5 +1,5 @@
 <?php
 
-header('Location:http://www.creps-montpellier.org/mentions-legales');
+header('Location:https://www.creps-montpellier.org/mentions-legales');
 
 ?>
