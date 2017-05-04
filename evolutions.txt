@@ -1,0 +1,62 @@
+##########################################################################
+#                                                                        #
+#                      PGF -Version RAZA      			                 #
+#                                                                        #
+##########################################################################
+##########################################################################
+#                                                                        #
+#                      DESIGN www.oriontronic.com                        #
+#                                                                        #
+##########################################################################
+
+01/04/2017 Mise a niveau de la nouvelle réglement-ation (specialite/mention/option) 2017
+
+############################################################
+#                    ADMIN                                 #
+############################################################
+15/03/2017 mise à jour fichier MOD et Liste -> en PDO
+
+25/03 Mise a jour de la ligne de bouton pour la CAEPMNS -> mode de prise en charge
+25/03 Ajout d'un bouton édition au format Word
+26/06 Colorisation pour la liste des formationsTEP (actif ou non actif)
+03/03 Nouvelle liste des stagiaires en tri croissant et décroissant
+03/03 Nouvelle liste  des stgaires TEP avec Tri
+04/03 echelle de visualisation des pages pour les listes des stagiaires
+09/04 back up possible en mode manuel dans un menu déroulant sur la page principale
+10/04 supression de la colonne actif pour la table des options
+12/04 encodage en PDO des fichiers pour le module d'extractions 
+20/04 changement du fichier config-> detection de URL pour avoir le online ou non
+
+############################################################
+#                    MEMBRE                                #
+############################################################
+
+
+15/03/2017 mise à jour fichier MOD et Liste -> en PDO
+15/03/2017 -> insertion du CPATCHA GOOGLE
+
+
+############################################################
+#                    FPDF                                  #
+############################################################
+
+15/03/2017 fiche stagaires -> PDO
+15/03/2017 suppression des fichiers temporaire-> nouvelle function
+12/04 resoluation de la recriture de HEADER -> script location 
+
+
+
+############################################################
+#                   DESIGN                                 #
+############################################################
+
+22/03 Implantation d"un module de design pour le couleur de la premiere page
+25/03 Implantation d'un module pour ajouter ou supprimer les rubriques dans le menu des foramtions
+06/04 ajout de la cle google captcha
+
+############################################################
+#                   TEP                                    #
+############################################################
+
+Remplacment de la classr w3-btn -> w3-button pour rendre l'environnement TEP en WEB_RESPONSIVE
+Aujout d'un bouton pour lister les pieces à fournir.
